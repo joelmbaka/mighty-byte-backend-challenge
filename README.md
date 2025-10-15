@@ -119,20 +119,5 @@ $env:DELIVERY_MAX_DELAY_MS = "300000"
 
 ## AI Tools Disclosure
 
-AI tools were used to assist with initial scaffolding, boilerplate, and some implementation details (project structure, retry/backoff logic, and documentation). All code was reviewed in context and verified locally.
-
-## Submission Instructions
-
-- Push this repository to GitHub and invite the following accounts/emails:
-  - khrystal@mightybyte.us
-  - hovhannes@mightybyte.us
-  - Acercobra
-  - rodrigo@mightybyte.us
-
-- Send your final response (a link to the repo and any notes) to:
-  - khrystal@mightybyte.us
-  - hovhannes@mightybyte.us
-  - rodrigo@mightybyte.us
-  - james@mightybyte.us
-  - dan@mightybyte.us
-
+I used AI to scaffold the express server, storage and delivery mechanisms. 
+AI wrote my readme quickly following my instructions
